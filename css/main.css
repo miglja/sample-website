@@ -1,0 +1,48 @@
+.nav-menu {
+    text-align: right;
+}
+.nav-spacing {
+    margin-left: 10px;
+}
+.nav-style {
+    text-decoration: none;
+    color:#0000ff;
+}
+
+.header-fmt {
+    text-align: center; 
+    margin: 0 0 80px;
+}
+
+.whales-img-fmt {
+    display: block; 
+    margin: 0 auto;
+}
+
+.cover-img-fmt {
+    float: left; 
+    margin-right: 40px;
+}
+
+.image-link {
+    text-decoration: none;
+}
+
+.report-body-fmt {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px;
+    background-color: #fafafa;
+}
+
+.blockquote-fmt {
+    font-style: italic; 
+    font-size: 20px;
+}
+
+.illuminate-fmt {
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold;
+    color: #f00;
+}
